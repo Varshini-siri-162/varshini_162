@@ -1,0 +1,29 @@
+cd c:
+mkdir 325103210018
+cd 325103210018
+git -v
+code .
+cd c:
+cd users
+cd gvpw
+cd desktop
+mkdir 325103237019
+cd 325103237019
+code .
+code .
+code .
+file.txt
+cd c:
+cd users
+cd gvpw
+cd c:
+cd users
+cd GVPW
+cd desktop
+mkdir 325103237019
+cd 325103237019
+code .
+file.txt
+cat >file.txt
+cat >file.txt
+cat >file1.txt
